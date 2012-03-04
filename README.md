@@ -2,7 +2,7 @@
 
 NOTE: You will need Ruby in order to run the install script.
 
-    git clone https:// .dotfiles
+    git clone https://wmwong@github.com/wmwong/dotfiles.git .dotfiles
     cd .dotfiles
     ./install.rb
 
