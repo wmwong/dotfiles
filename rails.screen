@@ -1,0 +1,16 @@
+#
+# Initiate a screen session with my
+# preferred dev environment
+#
+
+source /home/wesley/.screenrc
+
+#screen -t mongo 0 mongod --dbpath /home/wesley/data/db
+screen -t dev 1
+screen -t misc 2 
+screen -t server 3
+screen -t test 4
+screen -t background 5
+screen -t tail 6 tail -f log/development.log
+
+select 1
