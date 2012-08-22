@@ -12,7 +12,6 @@ This script backs up any dotfiles that may be present in the home directory with
 
 - .bash_aliases
 - .bashrc
-- .bashrc
 - .gemrc
 - .rails.screen
 - .screenrc
