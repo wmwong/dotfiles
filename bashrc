@@ -98,7 +98,7 @@ fi
 
 # Project alias definitions.
 # This stores all the aliases that are specific to projects.
-if [ -f ~/.bash_aliases ]; then
+if [ -f ~/.bash_project_aliases ]; then
     . ~/.bash_project_aliases
 fi
 
